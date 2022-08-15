@@ -1,10 +1,9 @@
-# My Awesome Project
+# Mix-It-Up
 Using the Cocktail rest API the user can enter the name of a drink and received instructions and igredients. 
 
 **Link to project:** https://noravgs.github.io/mix-it-up-API/
 
-![alt tag](https://user-images.githubusercontent.com/101680775/184690185-61eb7c77-dbdb-4e61-8259-dcdd83fa567b.gif)
-
+![image](https://github.com/noravgs/mix-it-up-API/blob/main/img/cockatailAPI.gif?raw=true)
 
 ## How It's Made:
 
