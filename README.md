@@ -25,4 +25,8 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **Poke Type:** https://github.com/noravgs/poke-api
 
+**Rainbow Reads:** https://github.com/noravgs/LIT-App
+
+**Concert Todo:** https://github.com/noravgs/concert-todo
+
 
