@@ -45,9 +45,11 @@ img {
 
 button{
   color: #000;
-  background: rgb(46, 210, 216);
+  background: rgb(204, 243, 245);
   font-weight: bold;
-  border: 1px solid #900;
+  outline: none;
+  border: none;
+  cursor: pointer;
 }
 
 button:hover {
