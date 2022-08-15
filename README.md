@@ -3,7 +3,7 @@ Using the Cocktail rest API the user can enter the name of a drink and received 
 
 **Link to project:** https://noravgs.github.io/mix-it-up-API/
 
-![image](https://user-images.githubusercontent.com/101680775/184689699-41268f30-2be0-4a17-9a63-31132e744d64.png)
+![image](https://user-images.githubusercontent.com/101680775/184689699-41268f30-2be0-4a17-9a63-31132e744d64.gif)
 
 
 ## How It's Made:
