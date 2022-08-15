@@ -1,7 +1,7 @@
 # My Awesome Project
 Using the Cocktail rest API the user can enter the name of a drink and received instructions and igredients. 
 
-**Link to project:** 
+**Link to project:** https://noravgs.github.io/mix-it-up-API/
 
 ![alt tag]()
 
@@ -23,6 +23,6 @@ While working with the Cocktail rest API. I learned how to acces data with diffe
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Poke Type:** https://noravgs.github.io/poke-api/
+**Poke Type:** https://github.com/noravgs/poke-api
 
 
